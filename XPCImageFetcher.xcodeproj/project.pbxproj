@@ -24,6 +24,7 @@
 		A7EF0AF819907C4A007A1BE6 /* XIFTableRowView.m in Sources */ = {isa = PBXBuildFile; fileRef = A7EF0AF719907C4A007A1BE6 /* XIFTableRowView.m */; };
 		A7EF0AFB19907D26007A1BE6 /* NSString+UUID.m in Sources */ = {isa = PBXBuildFile; fileRef = A7EF0AFA19907D26007A1BE6 /* NSString+UUID.m */; };
 		A7EF0AFF19907F3A007A1BE6 /* com.beyondcow.ImageFetcher.xpc in CopyFiles */ = {isa = PBXBuildFile; fileRef = A7EF0AE4199077AD007A1BE6 /* com.beyondcow.ImageFetcher.xpc */; };
+		A7EF0B03199083F8007A1BE6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A7EF0B02199083F8007A1BE6 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -95,6 +96,7 @@
 		A7EF0AF719907C4A007A1BE6 /* XIFTableRowView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XIFTableRowView.m; sourceTree = "<group>"; };
 		A7EF0AF919907D26007A1BE6 /* NSString+UUID.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+UUID.h"; sourceTree = "<group>"; };
 		A7EF0AFA19907D26007A1BE6 /* NSString+UUID.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+UUID.m"; sourceTree = "<group>"; };
+		A7EF0B02199083F8007A1BE6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +163,7 @@
 		A7EF0A95199076DD007A1BE6 /* XPCImageFetcher */ = {
 			isa = PBXGroup;
 			children = (
+				A7EF0B02199083F8007A1BE6 /* README.md */,
 				A7EF0AF919907D26007A1BE6 /* NSString+UUID.h */,
 				A7EF0AFA19907D26007A1BE6 /* NSString+UUID.m */,
 				A7EF0AE5199077D9007A1BE6 /* XIFImageFetcherProtocol.h */,
@@ -316,6 +319,7 @@
 			files = (
 				A7EF0A9A199076DD007A1BE6 /* InfoPlist.strings in Resources */,
 				A7EF0AA8199076DD007A1BE6 /* Images.xcassets in Resources */,
+				A7EF0B03199083F8007A1BE6 /* README.md in Resources */,
 				A7EF0AA0199076DD007A1BE6 /* Credits.rtf in Resources */,
 				A7EF0AA6199076DD007A1BE6 /* MainMenu.xib in Resources */,
 			);
