@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FFB62B3A-6C8D-4721-82E3-FCE6FC49A3E4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XPCImageFetcher</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3F08274E-0B7B-4642-B338-2F26AC4ABC19</key>
+		<string>https://github.com/keefo/XPCImageFetcher.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XPCImageFetcher.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3F08274E-0B7B-4642-B338-2F26AC4ABC19</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/keefo/XPCImageFetcher.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3F08274E-0B7B-4642-B338-2F26AC4ABC19</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3F08274E-0B7B-4642-B338-2F26AC4ABC19</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XPCImageFetcher</string>
+		</dict>
+	</array>
+</dict>
+</plist>
