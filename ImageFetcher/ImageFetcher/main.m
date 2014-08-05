@@ -54,7 +54,9 @@
     ImageDownloadOperation *op = [operationDict objectForKey:uuid];
     if (op) {
         [op cancel];
-        [operationDict removeObjectForKey:uuid];
+        @synchronized(operationDict){
+            [operationDict removeObjectForKey:uuid];
+        }
     }
 }
 
@@ -98,7 +100,9 @@
         }];
     }
     
-    [operationDict setObject:operation forKey:uuid];
+    @synchronized(operationDict){
+        [operationDict setObject:operation forKey:uuid];
+    }
     [operation startOnDelegateQueue:downloadQueue];
 }
 
